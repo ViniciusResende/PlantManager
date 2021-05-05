@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#mag_right-about-the-project">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#desktop_computer-layout-of-the-applicationdesktop">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-layout-of-the-application">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-launching-the-project">Lauching the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man_technologist-used-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#raising_hand_man-developer">Developer</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
